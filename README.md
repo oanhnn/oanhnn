@@ -1,7 +1,12 @@
-## 👀 Hello
+## 👀 Hello world!
 
-My name is Oanh Nguyen and I'm a software/DevOps engineer. I'm from Vietnam, living in Hanoi and currently working at [Rabiloo Co., Ltd](https://rabiloo.com/en).   
+My name is Oanh Nguyen and I'm a software/DevOps engineer.   
+I'm from Vietnam, living in Hanoi and currently working at [Rabiloo Co., Ltd](https://rabiloo.com/en).   
 You can find me on <a href="https://github.com/oanhnn"><img src="https://simpleicons.org/icons/github.svg" height="16" /></a>, or on <a href="https://twitter.com/oanhnn"><img src="https://simpleicons.org/icons/twitter.svg" height="16" /></a>.
+
+## 🏢 Rabiloo Co., Ltd
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o6SUvzK_m5I?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## ✍ Blog & Writing
 
