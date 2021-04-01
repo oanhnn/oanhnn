@@ -6,7 +6,7 @@ You can find me on <a href="https://github.com/oanhnn"><img src="https://simplei
 
 ## 🏢 Rabiloo Co., Ltd
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o6SUvzK_m5I?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Rabiloo Corporate Video](https://img.youtube.com/vi/o6SUvzK_m5I/0.jpg)](https://www.youtube.com/watch?v=o6SUvzK_m5I)
 
 ## ✍ Blog & Writing
 
