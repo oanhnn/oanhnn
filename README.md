@@ -8,10 +8,6 @@ You can find me on <a href="https://github.com/oanhnn"><img src="https://simplei
 
 [![Rabiloo Corporate Video](https://img.youtube.com/vi/o6SUvzK_m5I/0.jpg)](https://www.youtube.com/watch?v=o6SUvzK_m5I)
 
-## ✍ Blog & Writing
-
-Apart from coding, I also maintain a blog - you can find my articles on my website at [oanhnn.com](https://oanhnn.com)
-
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&labelColor=2f2625)
@@ -49,6 +45,4 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 ## 📈 GitHub Stats
 
-<a href="https://github.com/oanhnn/oanhnn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=oanhnn&show_icons=true&line_height=32&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Oanh's GitHub Stats" />
-</a>    
+![Metrics](https://metrics.lecoq.io/oanhnn?template=classic&languages=1&achievements=1&gists=1&introduction=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&gists=false&introduction=false&introduction.title=true&config.timezone=Asia%2FSaigon)
